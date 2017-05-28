@@ -1,0 +1,682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cont",
+				"container"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"col-m",
+				"col-md-push-7"
+			],
+			[
+				"co",
+				"col-md-6"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"a",
+				"assets"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bt",
+				"btn-success"
+			],
+			[
+				"what",
+				"what_we_do"
+			],
+			[
+				"S",
+				"Strng"
+			],
+			[
+				"s",
+				"sort"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"Se",
+				"sans-serif"
+			],
+			[
+				"roll",
+				"roll_no"
+			],
+			[
+				"cl",
+				"clg"
+			],
+			[
+				"k",
+				"kgisl"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"to",
+				"toDate"
+			],
+			[
+				"fr",
+				"fromDate"
+			],
+			[
+				"from",
+				"fromDate"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"Stude",
+				"StudentID"
+			],
+			[
+				"App",
+				"AppliedOn"
+			],
+			[
+				"tabs",
+				"tabs-2"
+			],
+			[
+				"tab",
+				"tabs-2"
+			],
+			[
+				"St",
+				"StudentDept"
+			],
+			[
+				"pr",
+				"principalapp"
+			],
+			[
+				"sta",
+				"staffapp"
+			],
+			[
+				"app",
+				"Approved"
+			],
+			[
+				"Le",
+				"leave"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"Mohan",
+				"MohanaKrishnan"
+			],
+			[
+				"so",
+				"some"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"plus",
+				"plus-8"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"hover",
+				"hoverIn"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"anc",
+				"anchorDestination"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"my",
+				"myElement"
+			],
+			[
+				"sec",
+				"secondParagraph"
+			],
+			[
+				"m",
+				"myElement"
+			],
+			[
+				"cli",
+				"clickMeButton"
+			],
+			[
+				"f",
+				"fN2"
+			],
+			[
+				"fN",
+				"fN1"
+			],
+			[
+				"sub",
+				"substitute"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"v",
+				"myValue"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"lis",
+				"list-group-item"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"pet",
+				"pettype"
+			],
+			[
+				"d",
+				"dropdown"
+			],
+			[
+				"i",
+				"input-group"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"name",
+				"nameStatus"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"for",
+				"form-horizontal"
+			],
+			[
+				"con",
+				"control-label"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"b",
+				"background-position"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"col-l",
+				"col-lg-offset-3"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"he",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "i",
+		"selected_items":
+		[
+			[
+				"i",
+				"Indentation: Convert to Spaces"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/GitHub/SAMPLE/index.html",
+		"/F/Nasa/SAMPLE/scripts/Main.js",
+		"/F/Nasa/SAMPLE/index.html",
+		"/F/Nasa/nasa-stemthefuture-earthquakes.github.io-master/nasa-stemthefuture-earthquakes.github.io-master/demo.properties",
+		"/F/Nasa/nasa-stemthefuture-earthquakes.github.io-master/nasa-stemthefuture-earthquakes.github.io-master/README.md",
+		"/F/Nasa/nasa-stemthefuture-earthquakes.github.io-master/nasa-stemthefuture-earthquakes.github.io-master/demo.xml",
+		"/F/Nasa/nasa-stemthefuture-earthquakes.github.io-master/nasa-stemthefuture-earthquakes.github.io-master/Images/PIA12832.jpg",
+		"/F/Nasa/nasa-stemthefuture-earthquakes.github.io-master/nasa-stemthefuture-earthquakes.github.io-master/StyleSheets/bootstrapSlider.min.css",
+		"/C/Users/KarthikKumar/Desktop/print.py",
+		"/C/Users/KarthikKumar/Downloads/sms/SerialConnectionException.java",
+		"/C/Users/KarthikKumar/Downloads/sms/SerialConnection.java",
+		"/C/Users/KarthikKumar/Downloads/sms/Sender.java",
+		"/C/Users/KarthikKumar/Downloads/sms/SerialParameters.java",
+		"/C/Users/KarthikKumar/Downloads/sms/SMSClient.java",
+		"/C/xampp/htdocs/msg/index.php",
+		"/C/xampp/htdocs/msg/smsGateway.php",
+		"/C/Users/KarthikKumar/Documents/GitHub/nts/what_we_done.html",
+		"/C/Users/KarthikKumar/Documents/GitHub/nts/what_we_do.html",
+		"/C/Users/KarthikKumar/Documents/GitHub/nts/README.md",
+		"/C/Users/KarthikKumar/Documents/GitHub/nts/index.html",
+		"/C/Users/KarthikKumar/Documents/GitHub/nts/contact_us.html",
+		"/C/Users/KarthikKumar/Documents/GitHub/nts/about_us.html",
+		"/C/Users/KarthikKumar/Documents/GitHub/nts/rules.html",
+		"/C/Users/KarthikKumar/Documents/GitHub/nts/assets/css/user.css",
+		"/C/Users/KarthikKumar/Desktop/m/about_us.html",
+		"/C/Users/KarthikKumar/Desktop/m/contact_us.html",
+		"/C/Users/KarthikKumar/Desktop/m/what_we_done.html",
+		"/C/Users/KarthikKumar/Desktop/m/what_we_do.html",
+		"/C/Users/KarthikKumar/Desktop/m/index.html",
+		"/C/Users/KarthikKumar/Desktop/m/assets/css/user.css",
+		"/C/Users/KarthikKumar/Desktop/m/assets/bootstrap/css/bootstrap.min.css",
+		"/C/Users/KarthikKumar/Desktop/m/assets/bootstrap/js/bootstrap.min.js",
+		"/F/bootstrap/library file for bootstrap and jquery/bootstrap-3.3.7-dist/Bootstrap/form1.html",
+		"/F/bootstrap/library file for bootstrap and jquery/bootstrap-3.3.7-dist/Bootstrap/test.html",
+		"/F/bootstrap/library file for bootstrap and jquery/bootstrap-3.3.7-dist/Bootstrap/col offset etc.html",
+		"/F/bootstrap/library file for bootstrap and jquery/jquery-3.1.1.min.map",
+		"/F/java/Hello.java",
+		"/F/java/Simple.java",
+		"/C/Users/KarthikKumar/Desktop/A.JAVA",
+		"/F/java/Str.java",
+		"/C/xampp/htdocs/Hackathon Mycampus/Hackathon/HOD.php",
+		"/C/xampp/htdocs/Hackathon Mycampus/Hackathon/Mentor.php",
+		"/F/java/B.java",
+		"/F/java/Stg.java",
+		"/C/Users/KarthikKumar/AppData/Local/Temp/Temp1_Hackathon.zip/Hackathon/authenticate.php",
+		"/C/Users/KarthikKumar/AppData/Local/Temp/Temp1_Hackathon.zip/Hackathon/Principal.php",
+		"/C/Users/KarthikKumar/AppData/Local/Temp/Temp1_Hackathon.zip/Hackathon/Mentor.php",
+		"/C/xampp/htdocs/Hackathon (2)/Hackathon/Mentor.php",
+		"/C/xampp/htdocs/hackfinal/Mentor.php",
+		"/C/xampp/htdocs/Hackathon Mycampus/php/mentor_leave_form.php",
+		"/F/java/Labeled.java",
+		"/F/java/Employee.java",
+		"/F/java/Strng.java",
+		"/C/Users/KarthikKumar/Desktop/sample.html",
+		"/F/bootstrap/C9JS_Code/C9JS_Fundamentals/C9JS_09.html",
+		"/F/bootstrap/C9JS_Code/C9JS_Fundamentals/C9JS_13.html",
+		"/F/nerve_to_serve_2016-master (2)/nerve_to_serve_2016-master/index.php",
+		"/C/xampp/htdocs/Android/editinfo.php",
+		"/C/xampp/htdocs/Android/getinfo.php",
+		"/C/Users/KarthikKumar/Downloads/editDetails.php",
+		"/C/Users/KarthikKumar/AppData/Local/Temp/Temp1_nerve_to_serve.zip/nerve_to_serve/index.php",
+		"/C/Users/KarthikKumar/Downloads/get.php",
+		"/C/Users/KarthikKumar/AppData/Local/Temp/Temp1_nerve_to_serve.zip/nerve_to_serve/administrator/admin_export_expendicture_details.php",
+		"/C/xampp/htdocs/Android/sqlkgisl.sql",
+		"/C/Users/KarthikKumar/Downloads/kgisl.sql",
+		"/C/xampp/htdocs/Android/sqlkct.sql",
+		"/C/xampp/htdocs/Android/sqlcms.sql",
+		"/C/xampp/htdocs/Android/retrieve.php",
+		"/C/xampp/htdocs/Android/sqlpsg.sql",
+		"/C/xampp/htdocs/Android/getDetailsss.php",
+		"/C/xampp/htdocs/Android/connect.php",
+		"/C/xampp/htdocs/Android/login.php",
+		"/C/xampp/htdocs/Android/int.php",
+		"/C/xampp/htdocs/Android/one.php",
+		"/G/dev/app/src/main/res/layout/activity_main.xml",
+		"/G/dev/app/src/main/java/com/ganesh/kite/dev/MainActivity.java",
+		"/C/Users/KarthikKumar/Downloads/get (1).php",
+		"/C/xampp/htdocs/final/master/sample/index.html",
+		"/C/xampp/htdocs/final/date.html",
+		"/C/xampp/htdocs/final/Principal.php",
+		"/C/xampp/htdocs/final/Mentor.php",
+		"/C/xampp/htdocs/final/HOD.php",
+		"/F/bootstrap/C9JS_Code/C9JS_Fundamentals/C9JS_17.html",
+		"/C/xampp/htdocs/final/Student.php",
+		"/C/xampp/htdocs/final/datetimepicker/bootstrap-datetimepicker-master/sample/index.html",
+		"/C/xampp/htdocs/final/dateboot/css/bootstrap-datetimepicker.min.css",
+		"/C/xampp/htdocs/final/sample/index.html",
+		"/C/xampp/htdocs/final/bootstrap-datetimepicker-0.0.11/css/bootstrap-datetimepicker.min.css",
+		"/C/Users/KarthikKumar/AppData/Local/Temp/Temp1_userCakeV2.0.2.zip/userCakeV2.0.2/admin_configuration.php",
+		"/C/xampp/htdocs/Hackathon/js/script.js",
+		"/C/xampp/htdocs/Hackathon/student_leave_form.php",
+		"/C/xampp/htdocs/Hackathon/Student.php",
+		"/G/Hackathon/Student.php",
+		"/C/xampp/htdocs/Hackathon/Student_leave.php",
+		"/G/student_history.php",
+		"/C/xampp/htdocs/Hackathon/Student_status.php",
+		"/C/xampp/htdocs/Hackathon/student_history.php",
+		"/C/xampp/htdocs/Hackathon/database-config.php",
+		"/C/xampp/htdocs/Hackathon/index.php",
+		"/C/xampp/htdocs/Hackathon/authenticate.php",
+		"/C/xampp/htdocs/Hackathon/jquery-ui/jquery-ui-1.12.1.custom/images/ui-bg_dots-medium_30_0b58a2_4x4.png",
+		"/C/xampp/htdocs/Hackathon/jquery-ui/jquery-ui-1.12.1.custom/AUTHORS.txt",
+		"/C/xampp/htdocs/Hackathon/jquery-ui/jquery-ui-1.12.1.custom/images/ui-bg_diagonals-thick_15_0b3e6f_40x40.png",
+		"/C/xampp/htdocs/Hackathon/Principal.php",
+		"/C/xampp/htdocs/Hackathon/Student/student_leave_form.php",
+		"/C/xampp/htdocs/Hackathon/HOD.php",
+		"/C/xampp/htdocs/Hackathon/logout.php",
+		"/G/TollPlaza/index.php",
+		"/C/xampp/htdocs/Hackathon/StudentLeaveForm.php",
+		"/C/xampp/htdocs/Hackathon Mycampus/index.html",
+		"/C/xampp/htdocs/Hackathon Mycampus/php/principal.php",
+		"/C/xampp/htdocs/Hackathon Mycampus/php/hod.php",
+		"/G/Hackathon/HOD.php",
+		"/C/xampp/htdocs/Hackathon Mycampus/php/mentor_home.php",
+		"/C/xampp/htdocs/Hackathon Mycampus/php/login.php",
+		"/C/xampp/htdocs/Hackathon Mycampus/php/student_home.php",
+		"/C/xampp/htdocs/Hackathon Mycampus/php/student_leave_form.php",
+		"/F/Android Projects/DatabaseIntegration/DatabaseIntegration-master/workshop_connect.php",
+		"/G/TollPlaza/TollPlaza/index.php",
+		"/C/xampp/htdocs/toll/workshop_retrieve.php",
+		"/C/xampp/htdocs/toll/workshop_connect.php",
+		"/C/Users/KarthikKumar/Downloads/whosabout-master/src/com/example/whosabout/MainActivity.java",
+		"/C/Users/KarthikKumar/Downloads/whosabout-master/src/com/example/whosabout/GeofenceStuff.java",
+		"/C/Users/KarthikKumar/Downloads/whosabout-master/src/com/example/whosabout/ReceiveTransitionsIntentService.java",
+		"/F/Android Projects/DatabaseIntegration/DatabaseIntegration-master/workshop_retrieve.php",
+		"/C/xampp/htdocs/nerve_to_serve/php/login_config.php",
+		"/C/Users/KarthikKumar/Desktop/package com.javapapers.android.java",
+		"/C/Users/KarthikKumar/Desktop/m.html"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lay",
+			"l",
+			"layer",
+			"YER",
+			"#LAYER",
+			"LAYER",
+			" h1,",
+			".jumbotron h1,",
+			".jumbotron ",
+			"jumbotron ",
+			"hero",
+			"body",
+			"Employee",
+			"html",
+			".well",
+			"well",
+			"#tabs-3",
+			"whether",
+			"animate-ou",
+			"animate-out",
+			"sequence canvas",
+			"animate out",
+			"Sequence Moder",
+			"back-to-top",
+			"id=\"back-to-top\"",
+			"back-to-top"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"about",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "",
+	"project": ".gitattributes.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
