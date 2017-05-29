@@ -1,6 +1,6 @@
 define(['http://worldwindserver.net/webworldwind/worldwindlib.js',
-    'http://worldwindserver.net/webworldwind/examples/LayerManager.js','Crosshair'],
-    function (ww,LayerManager,crosshair) {
+    'http://worldwindserver.net/webworldwind/examples/LayerManager.js' ],
+    function (ww,LayerManager) {
         "use strict";
 
        
