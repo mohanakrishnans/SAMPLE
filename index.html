@@ -22,26 +22,49 @@
             src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.17/require.min.js"></script>
 </head>
 <body>
-<div class="container-fluid" style="background-color: black;" >
+<div class="container-fluid" style="background-color: black; padding:5px;" >
 
 <div class="row">
-        <div class="col-sm-3">        
-             <h3>Projections</h3>
+        <div class="col-sm-3">  
 
-            <!-- View Projection-->
-            <div class="dropdown" id="projectionDropdown"></div>
-            <div id="Panels"></div>
-    
-            <h4>Layers</h4>    <br>
-            <button type="button" class="btn btn-info btn-block dropdown-toggle" data-toggle="collapse" data-target="#LAYER">Layers
-            <span class="caret"></span>
-            </button>
-            <div class="list-group" id="layerList"> 
-
+            <div>
+                <h3 style="color: white;">Projections</h3>
+                <!-- View Projection-->
+                <div class="dropdown" id="projectionDropdown">
+                    <div id="Panels">
+                    </div>
+                </div>
             </div>
+
+            <div>
+                <h4>Layers</h4>    <br>
+                <button type="button" class="btn btn-info btn-block dropdown-toggle" data-toggle="collapse" data-target="#LAYER">Layers
+                <span class="caret"></span>
+                </button>
+                <div id="LAYER" class="collapse">
+                    <div class="list-group" id="layerList"> 
+
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h5 class="panel-title">
+                        <a data-toggle="collapse" href="#widget-layers-panel" aria-expanded="false"
+                           aria-controls="widget-layers-panel">
+                            Widgets
+                        </a>
+                    </h5>
+                </div>
+                <div class="panel-collapse collapse" id="widget-layers-panel">
+                    <div data-bind="template: { name: 'layer-template', foreach: widgetLayers}"></div>
+                </div>
+            </div> 
+            <br>
+            <button type="button" class="btn btn-info btn-block" onclick="locateKite()" >Locate Kite</button>
         </div>
-        <div class="col-sm-9" id="globe">
-            <canvas id="canvasOne" width="848" height="848" style="width: 100%; height: auto; touch-action: none;">
+        <div class="container col-sm-9" id="globe">
+            <canvas id="canvasOne" width="848" height="520" style="width: 100%;  touch-action: none; background-color: white;">
                 Your browser does not support HTML5 Canvas.
             </canvas>
         </div>
